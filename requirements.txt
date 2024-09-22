@@ -1,5 +1,5 @@
 streamlit
 pandas
 pickle
-plotly.express
+plotly
 datetime
