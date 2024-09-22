@@ -12,7 +12,7 @@ def load_model():
 
 # Load the model
 model = load_model()
-print(type(model))
+st.write("(type(model)")
 # Define the input feature columns
 df_input = ["Grade Level", 'English', 'Afrikaans', 'Mathematics', 'Natural Sciences',
             'Social Sciences', 'EMS', 'Technology', 'Life Orientation', 'Creative Arts',
